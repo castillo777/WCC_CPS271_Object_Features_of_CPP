@@ -1,0 +1,7 @@
+Lincoln 120 300	400
+Parks 100 500 250
+Shakespeare 0 30 50
+Ghandi 250 100 40
+Ashe 300 50 175
+Rodriguez 87 118 320
+Curie 284 0 112

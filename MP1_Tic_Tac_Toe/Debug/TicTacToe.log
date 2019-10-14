@@ -1,0 +1,5 @@
+﻿  main.cpp
+  TicTacToe.cpp
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps271\tictactoe\tictactoe.cpp(85): warning C4804: '>=': unsafe use of type 'bool' in operation
+  Generating Code...
+  TicTacToe.vcxproj -> C:\Users\sergioc.CAMPFIRE\Documents\Visual Studio 2015\Projects\CPS271\Debug\TicTacToe.exe

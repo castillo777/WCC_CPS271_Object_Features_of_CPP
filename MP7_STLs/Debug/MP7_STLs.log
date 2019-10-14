@@ -1,0 +1,8 @@
+﻿  FrequencyTableDriver.cpp
+  FrequencyCountTable.cpp
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps271\mp7_stls\frequencycounttable.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps271\mp7_stls\frequencycounttable.cpp(66): warning C4101: 'e': unreferenced local variable
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps271\mp7_stls\frequencycounttable.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MP7_STLs.vcxproj -> C:\Users\sergioc.CAMPFIRE\documents\visual studio 2015\Projects\CPS271\Debug\MP7_STLs.exe
+  MP7_STLs.vcxproj -> C:\Users\sergioc.CAMPFIRE\documents\visual studio 2015\Projects\CPS271\Debug\MP7_STLs.pdb (Partial PDB)
